@@ -1,13 +1,13 @@
-public class Desafio {
+public class Challenge{
     public static void main(String[] args) {
-        String nome = "Thales Eduardo";
-        String tipoConta = "Corrente";
-        double saldo = 2000.00;
+        String name = "Thales Eduardo";
+        String AccountType = "Chain";
+        double balance = 2000.00;
 
         System.out.println("***************");
-        System.out.println("\nNome do client:" + nome);
-        System.out.println("Tipo conta " + tipoConta);
-        System.out.println("Saldo atual " + saldo);
+        System.out.println("\nClient name:" + name);
+        System.out.println("AccountType " + AccountType);
+        System.out.println("Current balance " + balance);
         System.out.println("\n***************");
 
     }
