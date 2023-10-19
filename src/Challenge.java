@@ -5,7 +5,7 @@ public class Desafio {
         double saldo = 2000.00;
 
         System.out.println("***************");
-        System.out.println("\nNome do cliente:" + nome);
+        System.out.println("\nNome do client:" + nome);
         System.out.println("Tipo conta " + tipoConta);
         System.out.println("Saldo atual " + saldo);
         System.out.println("\n***************");
